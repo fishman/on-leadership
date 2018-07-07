@@ -1,1 +1,16 @@
-* on-leadership
+* On Leadership
+You're the first engineer. The company has been growing fast and the Engineering team has been expanding so quickly. Suddenly they promote you to director of engineering. They realize that just by promoting you, you don't suddenly have the tools you need to become a leader. They you to the Stanford Executive Program in Leadership. You feel empowered. Surely you now have the tools at your disposal to be a great leader. After all one of the worlds leading institutions just certified it.
+
+But what does it mean to be a leader? What is strength and what is your role in the company?
+
+** Supporting your subordinates
+As a leader your job is to empower your subordinates. They will face challenges and hurdles. Your job is to remove as many of these hurdles as possible.
+
+** Middle managers
+   Do not ever hire weak middle managers. And if you do, get rid of them as soon as possible. A weak middle manager will make sure that every communication you receive from the engineers is filtered from anything he considers a threat to his position. Problem will not surface and therefore will also not be fixed.
+
+** Apologize publically when necessary
+   Is traditional companies admiting mistakes is considered a weakness. Great leaders, whether they are CEOs, Engineering managers or other people are confident in their abilities that they will therefore not consider admitting mistakes as a sign of weakness. On the contrary, it builds trust and empowers the team. People will more likely share their ideas with such leaders.
+
+** Publically announce where you heard about ideas
+   Not all of your ideas will be your own. Some of them will come from the outside, some of them you will hear from team members and some of them will be ideas you disapproved of. Remembering where they came from and publically giving credit to those people empowers everyone in the company and will be a sign of greatness.
