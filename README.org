@@ -14,3 +14,6 @@ As a leader your job is to empower your subordinates. They will face challenges 
 
 ** Publically announce where you heard about ideas
    Not all of your ideas will be your own. Some of them will come from the outside, some of them you will hear from team members and some of them will be ideas you disapproved of. Remembering where they came from and publically giving credit to those people empowers everyone in the company and will be a sign of greatness.
+
+** Encourage open critique
+   If critique does not happen in the open it will manifest itself differently. The culture of indiscriminate awesomeness leads to group fragmentation and gossip.
